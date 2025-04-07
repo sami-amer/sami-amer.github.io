@@ -9,6 +9,6 @@ image: "/assets/images/signature.png"
 tags: sticky featured
 
 ---
-My resume, current as of August 14th, 2024.  If you are interested in contacting me, email sami@sami.ps --- [For iOS](../assets/files/resume.pdf)
+My resume, current as of April 6th, 2025.  If you are interested in contacting me, email sami@sami.ps --- [For iOS](../assets/files/resume.pdf)
 
 <embed src="/assets/files/resume.pdf" type="application/pdf" style="width: 100%; height: 100vw"/>
